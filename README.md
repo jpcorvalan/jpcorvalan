@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Pablo Corvalán from Argentina</h1>
+
 - 🌱 I’m currently learning **React and other frontend resources**
 
 - 💬 Ask me about **Backend, and Java, my favourite languaje ❤**
