@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **React and other frontend resources**
 
-- 💬 Ask me about **Backend, and Java, my favourite languaje ❤**
+- 💬 Ask me about **Backend, and Java, my favourite language ❤**
 
 - 📫 How to reach me **https://www.linkedin.com/in/juan-corvalán/**
 
