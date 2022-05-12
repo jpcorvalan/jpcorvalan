@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juan Pablo Corvalán from Argentina</h1>
 
-- 🌱 I’m currently learning more of **Java Spring**
-
-- 💬 Ask me about **Backend, and Java, my favourite language ❤**
+- 🌱 I’m currently working for NEORIS Argentina
 
 - 📫 How to reach me **https://www.linkedin.com/in/juan-corvalán/**
 
