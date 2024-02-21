@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Pablo Corvalán from Argentina</h1>
 
-- 🌱 I’m currently working for Errepar S.A Argentina
-
 - 📫 How to reach me **https://www.linkedin.com/in/juan-corvalán/**
 
 
